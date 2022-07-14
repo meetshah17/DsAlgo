@@ -10,6 +10,6 @@ int fact(int n)
 
 int main() 
 {
-    cout <<"hello";
+    cout <<fact(4);
     return 0; 
 }
